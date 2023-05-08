@@ -1,0 +1,4 @@
+This is a power equipment smoke dataset related to the paper titled "Generation of Smoke Dataset for Power Equipment and Study of Image Semantic Segmentation". It should be noted that the dataset includes most of the raw data, and some small parts cannot be made public due to policy reasons, but this does not affect the use of the data. You are free to use it to train neural networks and freely divide it into training and validation sets.If you have any questions with getting datasets,please contact me:3701@ynnu.edu.cn.You will get help.
+Please download from follow as : https://pan.baidu.com/s/1SJP2NHb9pRhfboiK6JjY-w 
+Password: 43dg
+
